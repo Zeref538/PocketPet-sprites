@@ -7,6 +7,7 @@ Only the animation frames from [PocketPet](https://github.com/Zeref538/PocketPet
 - `wolf/`: 48 frames, 202x187
 - `pup/`: 48 frames, 294x149
 - `bunny/`: 32 frames, 137x107
+- `ui/`: 44 UI pieces: buttons (and pressed versions), icons, square and round buttons, bars, speech bubble
 
 Each frame is named `<animation>_<frame>.png`. Animations: idle, happy, sad, crying, eating, playing, studying, sleeping.
 
