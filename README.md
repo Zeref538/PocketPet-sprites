@@ -2,7 +2,7 @@
 
 Only the animation frames from [PocketPet](https://github.com/Zeref538/PocketPet), so it downloads fast.
 
-- `hamster/`: 33 frames, 208x187
+- `hamster/`: 33 frames, 212x187
 - `otter/`: 64 frames, 185x142
 - `wolf/`: 48 frames, 202x187
 - `pup/`: 48 frames, 294x149
