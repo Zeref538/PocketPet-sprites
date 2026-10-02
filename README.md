@@ -5,6 +5,8 @@ Only the animation frames from [PocketPet](https://github.com/Zeref538/PocketPet
 - `hamster/`: 33 frames, 208x187
 - `otter/`: 64 frames, 185x142
 - `wolf/`: 48 frames, 202x187
+- `pup/`: 48 frames, 249x153
+- `bunny/`: 32 frames, 137x107
 
 Each frame is named `<animation>_<frame>.png`. Animations: idle, happy, sad, crying, eating, playing, studying, sleeping.
 
