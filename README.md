@@ -2,6 +2,8 @@
 
 Only the animation frames from [PocketPet](https://github.com/Zeref538/PocketPet), so it downloads fast.
 
+`props/care/` contains six additional transparent props for future use: food bowl, water bowl, soap, grooming brush, toy ball, and pet bed. These are prepared artwork; they are not implemented in the game. The six PNGs total 435,945 bytes.
+
 - `hamster/`: 33 frames, 212x187
 - `otter/`: 64 frames, 185x142
 - `wolf/`: 48 frames, 202x187
