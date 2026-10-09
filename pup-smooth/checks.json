@@ -1,0 +1,114 @@
+{
+  "drinking": {
+    "sheet_size": [
+      1450,
+      1085
+    ],
+    "frames": 12,
+    "unique_frames": 12,
+    "output_size": [
+      192,
+      192
+    ],
+    "has_transparency": true,
+    "cell_edge_contacts": 0
+  },
+  "eating": {
+    "sheet_size": [
+      1448,
+      1086
+    ],
+    "frames": 12,
+    "unique_frames": 12,
+    "output_size": [
+      192,
+      192
+    ],
+    "has_transparency": true,
+    "cell_edge_contacts": 0
+  },
+  "happy": {
+    "sheet_size": [
+      1448,
+      1086
+    ],
+    "frames": 12,
+    "unique_frames": 12,
+    "output_size": [
+      192,
+      192
+    ],
+    "has_transparency": true,
+    "cell_edge_contacts": 0
+  },
+  "idle": {
+    "sheet_size": [
+      1447,
+      1087
+    ],
+    "frames": 12,
+    "unique_frames": 12,
+    "output_size": [
+      192,
+      192
+    ],
+    "has_transparency": true,
+    "cell_edge_contacts": 0
+  },
+  "playing": {
+    "sheet_size": [
+      1448,
+      1086
+    ],
+    "frames": 12,
+    "unique_frames": 12,
+    "output_size": [
+      192,
+      192
+    ],
+    "has_transparency": true,
+    "cell_edge_contacts": 2
+  },
+  "sleeping": {
+    "sheet_size": [
+      1448,
+      1086
+    ],
+    "frames": 12,
+    "unique_frames": 12,
+    "output_size": [
+      192,
+      192
+    ],
+    "has_transparency": true,
+    "cell_edge_contacts": 0
+  },
+  "studying": {
+    "sheet_size": [
+      1448,
+      1086
+    ],
+    "frames": 12,
+    "unique_frames": 12,
+    "output_size": [
+      192,
+      192
+    ],
+    "has_transparency": true,
+    "cell_edge_contacts": 0
+  },
+  "washing": {
+    "sheet_size": [
+      1448,
+      1086
+    ],
+    "frames": 12,
+    "unique_frames": 12,
+    "output_size": [
+      192,
+      192
+    ],
+    "has_transparency": true,
+    "cell_edge_contacts": 0
+  }
+}
