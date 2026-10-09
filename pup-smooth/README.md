@@ -9,3 +9,5 @@ Original sheets are preserved in `sheets/`. Cuts follow transparent gaps because
 Two playing cells report alpha at a cut edge. Their complete pup and ball were visually checked in the contact sheet. The set needs animation review in the target game; extra frames alone do not guarantee smooth motion.
 
 All eight sequences were imported into PocketPet Care, and the seven care actions were observed in its Windows build. Real integration screenshots are in `../previews/phone-game-*.png`.
+
+The cut frames retain a transparent canvas with fully opaque pup pixels. GIF previews use 160 ms per frame; PocketPet Care plays the twelve-frame loops at 6 frames per second. Original sheets are kept as source artwork.

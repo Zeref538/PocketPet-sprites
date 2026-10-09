@@ -11,3 +11,7 @@
 - [x] Prepare a study table, sleep bed, food bowl, and animated wash/drink props.
 - [x] Check all eight sequences in the Unity project and care actions in its Windows build.
 - [x] Publish the new artwork and a compact download for the lab.
+
+- [x] Correct opacity in all 96 cut pup frames and slow eight GIF previews.
+- [x] Verify alpha values are only 0 and 255.
+- [x] Publish corrected frames separately from the Unity project.

@@ -2,11 +2,11 @@
 
 Artwork for [PocketPet](https://github.com/Zeref538/PocketPet) and [PocketPet Care](https://github.com/Zeref538/PocketPet-Care), kept separate from Unity projects for easier downloads.
 
-`pup-smooth/frames/` contains a new care set: idle, eating, happy, playing, studying, sleeping, washing, and drinking. Each has twelve separate transparent 192-by-192 frames. Original `pup/` artwork is preserved. Contact sheets, source sheets, and GIF previews are under `pup-smooth/`.
+`pup-smooth/frames/` contains a new care set: idle, eating, happy, playing, studying, sleeping, washing, and drinking. Each has twelve separate 192-by-192 frames with opaque pup pixels and a transparent canvas. GIF previews run at 160 ms per frame; PocketPet Care plays the loops at six frames per second. Original `pup/` artwork is preserved. Contact sheets, source sheets, and GIF previews are under `pup-smooth/`.
 
 `ui/phone-actions/` contains eight matching button shapes with different colors and action pups. `props/phone-care/` contains the study table, bed, and food bowl. `previews/` contains layout concepts and actual game captures.
 
-For the lab, use the compact [care artwork download](https://github.com/Zeref538/PocketPet-sprites/releases/tag/v1.1.0). It contains only the 96 new frame PNGs, eight buttons, three props, and frame instructions. Files named `previews/phone-game-*.png` are actual Windows game captures; the other preview files are design concepts.
+For the lab, use the compact [care artwork download](https://github.com/Zeref538/PocketPet-sprites/releases/tag/v1.2.0). It contains only the 96 new frame PNGs, eight buttons, three props, and frame instructions. Files named `previews/phone-game-*.png` are actual Windows game captures; the other preview files are design concepts.
 
 `ui/status-bars/` contains separate transparent frames and fills for hunger, happiness, energy, and cleanliness. These are prepared images for later use, not implemented gameplay.
 
