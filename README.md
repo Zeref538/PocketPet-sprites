@@ -4,7 +4,7 @@ Artwork for [PocketPet](https://github.com/Zeref538/PocketPet) and [PocketPet Ca
 
 `pup-smooth/frames/` contains a new care set: idle, eating, happy, playing, studying, sleeping, washing, and drinking. Each has twelve separate transparent 192-by-192 frames. Original `pup/` artwork is preserved. Contact sheets, source sheets, and GIF previews are under `pup-smooth/`.
 
-`ui/phone-actions/` contains eight matching button shapes with different colors and action pups. `props/phone-care/` contains the study table, bed, and food bowl. `previews/` contains layout concepts, not running-game screenshots.
+`ui/phone-actions/` contains eight matching button shapes with different colors and action pups. `props/phone-care/` contains the study table, bed, and food bowl. `previews/` contains layout concepts and actual game captures.
 
 For the lab, use the compact [care artwork download](https://github.com/Zeref538/PocketPet-sprites/releases/tag/v1.1.0). It contains only the 96 new frame PNGs, eight buttons, three props, and frame instructions. Files named `previews/phone-game-*.png` are actual Windows game captures; the other preview files are design concepts.
 
